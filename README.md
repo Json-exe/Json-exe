@@ -3,7 +3,7 @@ Json-exe/Json-exe is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm Luca</h1>
-<h3 align="center">A student who is currently doing his technical baccalaureate and has developed a passion for programming.</h3>
+<h3 align="center">A student who is currently on his way to becoming an IT specialist for application development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=json-exe&label=Profile%20views&color=0e75b6&style=flat" alt="json-exe" /> </p>
 
