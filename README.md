@@ -19,4 +19,4 @@ You can click the Preview link to take a look at your changes.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=json-exe&show_icons=true&locale=en" alt="json-exe" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=json-exe&" alt="json-exe" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Json-exe)](https://git.io/streak-stats)
