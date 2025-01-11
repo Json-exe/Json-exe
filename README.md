@@ -45,7 +45,7 @@
 
 <div style="justify-content: center; aling-items: center; display: flex; flex-wrap: wrap; gap: 8px;">
   <img src="https://github-readme-stats.vercel.app/api?username=Json-exe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats-silk-gamma.vercel.app?user=Json-exe&theme=dracula&mode=daily&order=3" height="220" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Json-exe&theme=dark&hide_border=false" height="220" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Json-exe&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="180" alt="languages graph" style="align-self: center;"/>
 </div>
 
