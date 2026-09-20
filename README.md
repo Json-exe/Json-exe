@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">I'm Luca from Germany!<br><br>- 📘 I am currently doing my apprenticeship as an IT specialist for application development<br>- ⚡ In my free time I code or play video games.</p>
+<p align="left">I'm Luca from Germany!<br><br>- 🏬 Working as a software developer at a German company. <br>- ⚡ In my free time I code or play video games.</p>
 
 ###
 
@@ -43,21 +43,8 @@
 ###
 
 <div style="justify-content: center; aling-items: center; display: flex; flex-wrap: wrap; gap: 8px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Json-exe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats-orpin-nine.vercel.app?user=Json-exe&theme=highcontrast" height="220" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Json-exe&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="180" alt="languages graph" style="align-self: center;"/>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=Json-exe&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Json-exe&radius=16&theme=redical&area=false&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
+  <img src="https://ghstats.dev/api/card?username=Json-exe" alt="GitHub Stats Card"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Json-exe&layout=compact&langs_count=6&theme=dark_github" alt="Top languages"/>
 </div>
 
 ###
